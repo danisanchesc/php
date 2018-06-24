@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 <?php
 
         echo "Hello Word";
 
-        echo "muito bom";
+       
+
+        echo "Olá Mundo";
 
 ?>
